@@ -1,0 +1,2 @@
+; Journal horodaté des messages envoyés.
+; Format : YYYY-MM-DD HH:MM:SS | utilisateur [role] | [type] objet | Dest: services | UUID: uuid

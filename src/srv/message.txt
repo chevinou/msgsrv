@@ -1,0 +1,15 @@
+[info]
+Titre du message
+Corps du message
+
+[services]
+ALL
+
+[emetteur]
+admin
+
+[signature]
+Le service informatique
+
+[uuid]
+00000000000000000000000000000000

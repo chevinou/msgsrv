@@ -1,0 +1,8 @@
+; Cache des départements Active Directory.
+; Généré automatiquement par adminmsgAH.exe → onglet Configuration → "Actualiser les services".
+; Peut également être rempli manuellement, un département par ligne.
+Direction Informatique
+Direction des Ressources Humaines
+Direction Financière
+Service Communication
+Service Juridique
