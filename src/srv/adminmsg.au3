@@ -1,5 +1,5 @@
 ; =============================================================================
-; adminmsgAH.au3 - MsgSrv Admin v2.2
+; adminmsg.au3 - MsgSrv Admin v2.2
 ; v2.2 : ListView à coches pour les services (scalable 50+),
 ;        filtre dynamique, pas de requête AD au démarrage.
 ; =============================================================================
