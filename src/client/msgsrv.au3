@@ -1,5 +1,5 @@
 ; =============================================================================
-; msgAH.au3 - MsgSrv Client v2.4
+; msgsrv.au3 - MsgSrv Client v2.4
 ; Corrections :
 ;   - TrayOnEventMode=1 : le bouton Quitter quitte réellement l'applicatif
 ;   - Config AD lue depuis le config.ini du serveur (pas path.ini)
